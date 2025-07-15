@@ -1,7 +1,8 @@
-export default function indexPage() {
+export default function Indexpage() {
   return (
-    <div>
+    <>
       <p>Hell World</p>
-    </div>
+      <code>Glitch the Matrix</code>
+    </>
   );
 }
